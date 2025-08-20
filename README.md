@@ -15,11 +15,15 @@ It was built using **HTML5**, **Tailwind CSS**, and **JavaScript**. The goal was
 ## 📸 Screenshots
 
 ### Desktop Design
-*(Buraya masaüstü ekran görüntünüzü ekleyin, örneğin `desktop-design.png`)*
+<img src="images/desktop-design.png" alt="Desktop Screenshot" width="100%">
+
+### Desktop Success Design
 <img src="images/desktop-design.png" alt="Desktop Screenshot" width="100%">
 
 ### Mobile Design  
-*(Buraya mobil ekran görüntünüzü ekleyin, örneğin `mobile-design.png`)*
+<img src="images/mobile-design.png" alt="Mobile Screenshot" width="100%">
+
+### Mobile Success Design  
 <img src="images/mobile-design.png" alt="Mobile Screenshot" width="100%">
 
 ---
