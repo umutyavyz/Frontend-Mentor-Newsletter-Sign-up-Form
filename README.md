@@ -8,7 +8,7 @@ It was built using **HTML5**, **Tailwind CSS**, and **JavaScript**. The goal was
 
 ## 🔗 Live Site
 
-👉 [Live preview here](https://umutyavyz.github.io/Frontend-Mentor-Newsletter-Signup/)
+👉 [Live preview here](https://umutyavyz.github.io/Frontend-Mentor-Newsletter-Sign-up-Form/)
 
 ---
 
@@ -18,13 +18,15 @@ It was built using **HTML5**, **Tailwind CSS**, and **JavaScript**. The goal was
 <img src="images/desktop-design.png" alt="Desktop Screenshot" width="100%">
 
 ### Desktop Success Design
-<img src="images/desktop-design.png" alt="Desktop Screenshot" width="100%">
+<img src="images/desktop-design-success.png" alt="Desktop Success Screenshot" width="100%">
 
-### Mobile Design  
-<img src="images/mobile-design.png" alt="Mobile Screenshot" width="100%">
-
-### Mobile Success Design  
-<img src="images/mobile-design.png" alt="Mobile Screenshot" width="100%">
+### Mobile Designs
+<table>
+  <tr>
+    <td><img src="images/mobile-design.png" alt="Mobile Screenshot"></td>
+    <td><img src="images/mobile-design-success.png" alt="Mobile Success Screenshot"></td>
+  </tr>
+</table>
 
 ---
 
